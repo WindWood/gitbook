@@ -1,8 +1,8 @@
 # GitBook 简明教程
 
-原书-[GitBook 简明教程](http://www.chengweiyang.cn/gitbook)已经停止更新，因此我在chengweiyang的基础上继续修改发布。
+[原书-GitBook 简明教程](http://www.chengweiyang.cn/gitbook)已经停止更新，因此我在原书的基础上继续修改发布。
 
-感谢chengweiyang的这个教程一直以来给我的指导。
+学习Gitbook的时候一直以来都是参考chengweiyang的教程——Google gitbook得到的就是这个教程，因此感谢chengweiyang的工作。
 
 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面。
 
