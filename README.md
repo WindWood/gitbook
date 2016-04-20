@@ -1,6 +1,6 @@
 # GitBook 简明教程
 
-原书-GitBook 简明教程](http://www.chengweiyang.cn/gitbook)已经停止更新，因此我在chengweiyang的基础上继续修改发布。
+原书-[GitBook 简明教程](http://www.chengweiyang.cn/gitbook)已经停止更新，因此我在chengweiyang的基础上继续修改发布。
 
 感谢chengweiyang的这个教程一直以来给我的指导。
 
